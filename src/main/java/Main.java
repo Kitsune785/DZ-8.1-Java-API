@@ -18,7 +18,7 @@ public class Main {
 
         post.surname = "Иванов";
 
-        post.subscription = "true";
+        post.subscription = Boolean.valueOf("true");
 
     }
 }
